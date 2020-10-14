@@ -22,7 +22,7 @@ merupakan cara untuk melakukan export data hasil paket capture.
 
 `http contains Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg`
 
-Artinya menampilkan semua paket dengan protokol http yang mengandung string "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg".
+Artinya menampilkan semua paket dengan protokol http yang mengandung string "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg" dan untuk mengecek keberadaan file  "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg".
 
 ![alt text](https://github.com/marsellaeve/JARKOM20_modul1_C07/blob/main/img/2.png)
 
